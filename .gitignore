@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Compressed archives (just in case)
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
